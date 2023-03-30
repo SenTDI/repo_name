@@ -7,25 +7,25 @@ for line in open("лексический_минимум2.txt", 'r', encoding="UT
     splitline = line.split(" - ")
     tests["lm2"][splitline[0]] = splitline[1]
 for key, value in tests['lm2'].items():
-        userinpt = str(input(f"{value.rstrip()} Введите слово на английском (0 выход) -> "))
+        userinpt = str(input(f"{value.rstrip()}\nВведите слово на английском (0 выход) -> "))
         if userinpt == "0":
              break
         if userinpt.lower() == key.lower(): 
-            print(f"\n{key.rstrip()} - {value.rstrip()} Все правильно!)\n")
+            print(f"{key.rstrip()} - {value.rstrip()} Все правильно!)\n")
         else:
-            print(f"\n{key.rstrip()} - {value.rstrip()} Не правильно!:(\n")
+            print(f"{key.rstrip()} - {value.rstrip()} Не правильно!:(\n")
             badwords.append([key, value])
 for key, value in tests['lm2'].items():
         userinpt = input()
         if userinpt == "0":
              break
-        print(f"{value.rstrip()} - {key.rstrip()}")
+        print(f"{value.rstrip()} - \t\t\t\t\t{key.rstrip()}")
 
 """
 while True:
     if len(badwords) >= 1:
         userinpt = str(input(f"Хотите повторить слова которые вы плохо знаете?\n\
-Ведь их {len(badwords)} штук(и/a) :( 0 - нет да - любой(ые) символ(ы)"))
+Ведь их {len(badwords)} штук(и/a) :( 0 - нет да - любой(ые) символ(ы)"))    
         if userinpt == "0":
              break
         if userinpt.lower() == key.lower(): 
