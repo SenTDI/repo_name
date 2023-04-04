@@ -3,9 +3,12 @@ tests = {
 }
 badwords = []
 badwords2 = []
-for line in open("лексический_минимум2.txt", 'r', encoding="UTF-8"):
+for line in open("123.txt", 'r', encoding="UTF-8"):
     splitline = line.split(" - ")
-    tests["lm2"][splitline[0]] = splitline[1]
+    try:
+        tests["lm2"][splitline[0]] = splitline[1]
+    except Exception:
+         pass
 for key, value in tests['lm2'].items():
         userinpt = str(input(f"{value.rstrip()}\nВведите слово на английском (0 выход) -> "))
         if userinpt == "0":
