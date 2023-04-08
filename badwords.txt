@@ -1,39 +1,69 @@
-colleague - коллега
-to get on very well - хорошо ладить
-to get rid of - избавиться
-openness - открытость 
-honest - честный
-value - ценность 
-to share - делить, разделять (например, ценности, взгляды)
-to count - считать, полагать
-quality of relationships - качество отношений
-to improve - улучшать
-to erode (over time) - разрушаться (с течением времени)
-to make sense - иметь смысл
-to maintain - поддерживать, сохранять
-maintenance - поддержка, сохранение
-in order to - для того, чтобы
-to lure - привлекать, заманивать
-to accrue - накапливать
-to hinge - зависеть
-to strive - бороться, стараться
-to matter - значить, иметь значение
-downtime - свободное время
-personal fulfilment - реализация своих способностей, самореализация
-recreation - отдых, восстановление сил, развлечение
-to pursue - заниматься чем-либо
-to appreciate - ценить
-passion - страсть, страстное увлечение
-exciting - волнующий, увлекательный, захватывающий
-fascinating - захватывающий, увлекательный
-purpose - цель, намерение
-to contribute to - вносить вклад, содействовать
-to engage - заниматься чем-либо, быть занятым чем-либо
-to interfere with - мешать, быть помехой
-to perform -  выполнять, делать
-to boost  - поднимать, поддерживать, повышать
-to thrive - процветать, преуспевать
-to unwind [ai] - расслабляться, отдыхать
-to wonder ['wʌndə] - удивляться, интересоваться
-to wander ['wɔndə] - бродить, блуждать
-to rejuvenate [rɪ'ʤuːv(ə)neɪt] -  восстанавливать, омолаживать
+what do you do for a living? - 1 Что ты делаешь? (чем ты зарабатываешь на жизнь?) - -1
+What are you doing? Stop it! - 2 Что ты делаешь? Прекрати! - 1
+It often rains here - 3 Здесь часто идет дождь. - 1
+It dosen't often snow here - 4 Здесь не часто идет снег. - -1
+She dosen't wear jeans. She think's she dosen't look classy - 6 Она не носит джинсы. Она думает что не выглядит стильно. - -1
+Why are you wearing this warm coat? - 7 Почему на тебе это пальто? - -1
+People always forget words if they don't use them - 8 Люди всегда забывают слова, если они их не употребляют. - -1
+Oh, no! I am always forgetting the right words - 9 О, нет! Я всегда забываю нужные слова - -1
+Where do you live? I live in london - 10 где ты живешь? я живу в лондоне - -1
+Where does he live? he leaves in spain - 11 Где он живет? Он живет в испании - -1
+He is living with his parents at the moment. His house was destroyed in a fire - 12 Сейчас он живет со своими родителями. Его дом сгорел - -1
+Every weekend we play minecraft - 13. Каждые выходные мы играем в майнкрафт - -1
+We are not playing minecraft this weekend. there is no connection. - 14. В эти выходные мы не играем. нет связи. - -1
+I think she is smart - 15. Я думаю она умная - -1
+Stop It! you are being silly - 16. Прекрати! ты ведешь себя глупо - -1
+I have no ideas - 17. у меня нет идей - -1
+I'm sorry, I can't talk I am having a bath - 18. Извини, я не могу говорить. Я принимаю ванну. - -1
+Who does the company belong to? - 19 Кому принадлежит эта компания? - -1
+Who knows the answer? - 20 Кто знает ответ? - -1
+Did you see John yestrday? Oh yes I meet him when I was going home - 21Ты видел джона вчера? О да я встретил его когда шел домой - -1
+What happend to the cup? Lisa broke it while she was washing up - 22 Что случилось с чашкой? Лиза разбила ее - -1
+When brian arrived we ahd dinner - 23 Когда брайан приехал мы поужинали - -1
+When Sarah called. we were having dinner - 24 Когда сара позвонила. мы ужинали - -1
+What were you doing when the news arrived? We were having a backyard barbecue - 25 Что вы делали, когда пришла новость? мы отдыхали и жарили мясо на заднем дворе. - -1
+I used to smoke a lot, but I gave up two years ago - 26 Раньше я много курил, но 2 года назад я бросил. - -1
+She didn't use to be thin - 27 Раньше она не была такой худой - -1
+Did you used to play hide-and-seek as a child? - 28 Вы играли в прятки в детстве? - -1
+When we arrived the film had started - 29 Когда мы приехали фильм уже начался - -1
+When sarah called we had already had dinner and were cleaning the table - 30 Когда сара позвонила мы уже поужинали и убрали со стола. - -1
+Have you even tried squid? No, I haven't - 31 Вы когда-нибудь пробовали кальмара? Нет - -1
+I hope you are hot a vegitarian! I have cooked some lamb chops - 32 Надеюсь ты не вегитериянец! Я приготовил бараньи отбивные. - -1
+I haven't been to Tokyo before - 33 Я прежде небыл в Токио - -1
+I have never been to paris - 34 Я никогда небыл в Париже - -1
+Have you ever been to Italy? Yes I have. I was there 2 years ago - 35 Вы когда-нибудь бывали в италии? Да. Я был там 2 года назад - -1
+I have had a headache ever since lunch time - 36 У меня болит голова с обеда. - -1
+Dan is very tired because he hasn't slept all night - 37 Ден очень устал потому-что не спал всю ночь - -1
+They haven't won this time, I'm afraid - 38 Боюсь, в этот раз они не выиграли. - -1
+Last week I lost my scard, and now I have just lost my gloves. - 39 На крайней неделе я потерял шарф, а сейчас я только что потерял перчатки - -1
+I have known him for 15 years - 40 Я знаю его уже 15 лет - -1
+She has been living in the city center since 2020 - 41 Она живет в центре города с 2020 - -1
+Haven't you finished yet? Hurry up! - 42 Ты еще не закончил? поторопись! - -1
+I have heared some fantastic news! I have passed my exams! - 43 Я только что усылышал фантастическую новость! Я успешно сдал экзамены! - -1
+We are enjoying our trip. We have visited 3 countries so far - 44 Нам нравится наше путешествие. мы уже посетили 3 страны - -1
+I have been standing here for hours! I feel tired - 45 Я стою тут уже несколько часов! Я чувствую усталость. - -1
+I have been waiting for you for ages! Where have you been? - 46 Я жду тебя уже сотню лет! Где ты был? - -1
+Have you seen my phone? I'm sure I left It here earlier - 47 Ты видел мой телефон? Я уверен что оставил его сдесь раньше - -1
+What's the matter? you look realy tired. I am ! I have been studying all day, and haven't finished yet. - 48 Что случилось? Ты выглядишь уставшим. Так и есть, я учился весь день и еще не закончил. - -1
+How long have you being learning English? I have been learning English for 8 years - 49 Сколько лет ты изучаешь английский? Я учу его уже 8 лет - -1
+I have been living in this city since I was born - 50 Я живу в этом городе с рождения. - -1
+Shall I open the window? - 51 Мне открыть окно? - -1
+Prehaps it'll rain tomorrow. - 52 Возможно завтра будет дождь. - -1
+She'll probably come with is tonight - 53 Она возможно пойдет с нам сегодня вечером - -1
+She probably won't come with us tonight - 54 Она возможно не пойдет с нами сегодня вечером - -1
+I'm going to do a lot of work this evening - 55 Я собираюсь сделать много дел сегодня вечером - -1
+Look out! Those books are going to fall! - 56 Осторожно! Те книги сейчас упадут! - -1
+Are you doing anythig on fridays evening? Not realy why? I'm having a party. would you like to come - 57 Ты делаешь что-нибудь в пятницу вечером? На самом деле нет пизда сложно - -1
+By the time we get to the cinema, the film will have started - 58 К тому времени как мы доберемся до кинотеатра фильм уже начнется. - -1
+Jim's plane leaves at 12 tommorow - 59 Самолет джима вылетеает завтра в 12 - -1
+When I'see her again, I'll tell her your news - 60 Когда я ее снова увижу, я расскажу ей твою новость - -1
+Let's run home before it rains - 61 Давай побежим домой на случай если пойдет дождь - -1
+Take an umbrella, in case it rains - 62 Возьми зонтик на случай если пойдет дождь - -1
+As soon as we're ready, we'll phone you - 63 Как только мы будем готовы, мы позвоним тебе - -1
+I won't leave untill you give my money - 64 Я не уйду пока ты не дашь мне денег - -1
+I will try as hard as I can - 65 Я буду стараться изо всех сил. - -1
+Stop doing that or I'll tell my dad - 66 Прекрати это делать или я расскажу своему папе - -1
+Which one do you want? I'll take red one - 67 Какой из них вы хотите? Я возьму красный - -1
+Will you carry this bag for me? - 68 Ты донесешь эту сумку? - -1
+Shall we play tennis? - 69 Поиграем в теннис? - -1
+Where will you be living in 5 years time? - 70 где ты будешь жить через 5 лет? - -1

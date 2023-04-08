@@ -3,26 +3,31 @@ tests = {
 }
 badwords = []
 badwords2 = []
-for line in open("123.txt", 'r', encoding="UTF-8"):
+for line in open("badwords.txt", 'r', encoding="UTF-8"):
     splitline = line.split(" - ")
     try:
-        tests["lm2"][splitline[0]] = splitline[1]
-    except Exception:
-         pass
+        tests["lm2"][splitline[0]] = [splitline[1], int(splitline[2])]
+    except IndexError:
+        try:
+            tests["lm2"][splitline[0]] = [splitline[1], 0]
+        except IndexError:
+            pass
 for key, value in tests['lm2'].items():
-        userinpt = str(input(f"{value.rstrip()}\nВведите слово на английском (0 выход) -> "))
+        userinpt = str(input(f"{value[0].rstrip()}\nВведите слово на английском (0 выход) -> "))
         if userinpt == "0":
              break
-        if userinpt.lower() == key.lower(): 
-            print(f"{key.rstrip()} - {value.rstrip()} Все правильно!)\n")
+        if userinpt.lower() == key.lower():
+            print(f"{key.rstrip()} - {value[0].rstrip()} - {value[1]} Все правильно!)\n")
+            if value[1] < 5:
+                badwords.append([key, value[0], value[1] + 1])
         else:
-            print(f"{key.rstrip()} - {value.rstrip()} Не правильно!:(\n")
-            badwords.append([key, value])
+            print(f"{key.rstrip()} - {value[0].rstrip()} - {value[1]} Не правильно!:(\n")
+            badwords.append([key, value[0], value[1] - 1])
 for key, value in tests['lm2'].items():
         userinpt = input()
         if userinpt == "0":
              break
-        print(f"{value.rstrip()} - \t\t\t\t\t{key.rstrip()}")
+        print(f"{value[0].rstrip()} - {value[1]} -\t\t\t\t\t{key.rstrip()}")
 
 """
 while True:
@@ -39,5 +44,7 @@ while True:
 """
 
 f = open("badwords.txt", 'w', encoding="UTF-8")
+out = ""
 for list in badwords:
-     f.write(f"{list[0]} - {list[1]}")
+    out += f"{list[0].rstrip()} - {list[1].rstrip()} - {list[2]}" + "\n"
+f.write(out)
