@@ -12,17 +12,33 @@ for line in open("badwords.txt", 'r', encoding="UTF-8"):
             tests["lm2"][splitline[0]] = [splitline[1], 0]
         except IndexError:
             pass
+words0 = False
+ww0 = 0
+ww1 = 0
+ww2 = 0
+for key, value in tests['lm2'].items():        
+        if value[1] == 0: ww0 += 1
+        elif value[1] == 1: ww1 += 1
+        elif value[1] == 2: ww2 += 1
+        else:
+             pass
+print(f"\nСлов с 0 написаний {ww0} Слов с 1 написаний {ww1} Слов с 2 написаний {ww2}\n")
 for key, value in tests['lm2'].items():
-        userinpt = str(input(f"{value[0].rstrip()}\nВведите слово на английском (0 выход) -> "))
+        if not words0:
+            userinpt = str(input(f"{value[0].rstrip()}\nВведите слово на английском (0 выход) -> "))
+        else:
+            userinpt = "404"
         if userinpt == "0":
-             break
-        if userinpt.lower() == key.lower():
+            words0 = True
+        if userinpt.rstrip().lower() == key.rstrip().lower():
             print(f"{key.rstrip()} - {value[0].rstrip()} - {value[1]} Все правильно!)\n")
-            if value[1] < 5:
-                badwords.append([key, value[0], value[1] + 1])
+            value[1] += 1
+            if value[1] < 3:
+                badwords.append([key, value[0], value[1]])
         else:
             print(f"{key.rstrip()} - {value[0].rstrip()} - {value[1]} Не правильно!:(\n")
-            badwords.append([key, value[0], value[1] - 1])
+            if value[1] < 3:
+                badwords.append([key, value[0], value[1]])
 for key, value in tests['lm2'].items():
         userinpt = input()
         if userinpt == "0":
