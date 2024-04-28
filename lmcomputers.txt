@@ -1,0 +1,48 @@
+Since - с (предлог), так как (союз)
+science - наука, 
+scientific - научный
+essential - важный, существенный
+to perform - выполнять
+to Access - получать/иметь доступ, обращаться
+an Access - доступ
+to improve - улучшать
+to devElop - развивать
+pUrpose - цель
+to keep rEcords - вести записи/учет
+to recOrd - записывать
+to enroll - записываться (на курсы, в группу)
+built-in - встроенный
+mode - режим
+to combine - совмещать
+to store  - хранить
+to enable - давать возможность
+to carry out - выполнять
+instead of - вместо
+secure - надежный
+to prevent - предотвращать
+to apply - применять
+to replace - заменять, замещать
+to serve - обслуживать, служить
+to depend on - зависеть от
+to retrieve - извлекать
+to procEss - обрабатывать
+compOnent - компонент, составная часть
+hardware - аппаратные средства
+software - програмное обеспечение
+peripherals - периферийные устройства
+to attach - прикреплять, присоединять
+to Execute - выполнять, исполнять
+to include - включать
+to consist of - состоять из
+storage device - устройство хранения
+input/output device - устройство ввода/вывода 
+to provide - обеспечивать
+hard drive (hard disc drive, HDD) - жесткий диск
+USB flash drive/flash drive/pen drive/memory stick/USB stick - флешка 
+to extract - извлекать
+to allow - позволять
+socket - разъем, сокет
+common - обычный, распространенный
+are classified into types/categories - классифицируются, разделяются на
+are classified by - классифицируются по
+can be divided into types/categories - могут быть разделены на (типы, категории)

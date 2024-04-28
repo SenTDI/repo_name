@@ -30,17 +30,31 @@ for key, value in tests['lm2'].items():
             userinpt = "404"
         if userinpt == "0":
             words0 = True
-        if userinpt.rstrip().lower() == key.rstrip().lower():
+        elif userinpt.rstrip().lower() == key.rstrip().lower():
             print(f"{key.rstrip()} - {value[0].rstrip()} - {value[1]} Все правильно!)\n")
             value[1] += 1
             if value[1] < 3:
                 badwords.append([key, value[0], value[1]])
         else:
             print(f"{key.rstrip()} - {value[0].rstrip()} - {value[1]} Не правильно!:(\n")
+            if not words0:
+                userinptcheck = str(input(f"Слово было написанно правильно Y если да если нет Enter -> "))
+                if userinptcheck.rstrip().lower() == "y":
+                    value[1] += 1
+                    if value[1] < 3:
+                        badwords.append([key, value[0], value[1]]) 
             if value[1] < 3:
                 badwords.append([key, value[0], value[1]])
+
+f = open("badwords.txt", 'w', encoding="UTF-8")
+out = ""
+for list in badwords:
+    out += f"{list[0].rstrip()} - {list[1].rstrip()} - {list[2]}" + "\n"
+f.write(out)
+f.close
+
 for key, value in tests['lm2'].items():
-        userinpt = input()
+        userinpt = input("0 что-бы закончить -> ")
         if userinpt == "0":
              break
         print(f"{value[0].rstrip()} - {value[1]} -\t\t\t\t\t{key.rstrip()}")
@@ -59,8 +73,3 @@ while True:
             badwords2.append([key, value])
 """
 
-f = open("badwords.txt", 'w', encoding="UTF-8")
-out = ""
-for list in badwords:
-    out += f"{list[0].rstrip()} - {list[1].rstrip()} - {list[2]}" + "\n"
-f.write(out)

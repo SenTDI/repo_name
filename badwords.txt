@@ -1,124 +1,16 @@
-to enter a university - поступить в университет	
-to graduate from a university - окончить университет
-graduate - выпускник (имеющий степень/квалификацию)
-undergraduates - учащиеся (студенты, получающие свою первую степень)
-postgraduate - студент магистратуры (тот, кто получил первую степень)
-a first/second-year student - студент первого/второго курса
-a freshman - первокурсник
-a sophomore - второкурсник
-senior students - студенты старших курсов
-a group-mate - одногруппник
-a peer - сверстник
-degree - степень
-a Bachelor`s Degree - степень (звание, диплом) бакалавра 
-a Master's Degree - степень (звание, диплом) магистра
-to study for the first/second degree - на первой ступени/на второй ступени учиться с целью получить квалификацию (на первой ступени образования-бакалавр, на второй ступени образования-магистр) 
-to get a grant - получить грант (стипендию)
-to get a degree - получать степень
-to obtain - получать
-to receive -  получать
-to pursue a degree - получать степень
-major (AmE) - специализация, основное направление
-assignment - задание
-subject - предмет
-term - семестр
-faculty - факультет, профессорский состав
-department - факультет, отделение, кафедра
-chair - кафедра
-dean -  декан
-lecturer -  преподаватель, читающи лекции, лектор
-to give/deliver a lecture - читать лекцию		
-to  attend lectures - посещать лекции
-tutor - преподаватель, ведущий семинарские занятия, руководитель группы, репетитор
-tuition  -  обучение; плата за обучение 
-vacation - каникулы
-to take exams - сдавать экзамены				
-to pass exams - сдать экзамены (успешно)
-to fail an exam - не сдать экзамен
-successfully - успешно
-to take/make notes - делать записи, конспектировать
-to research - проводить исследование
-to do/to conduct/to carry out research - ../../.. проводить исследование
-to do well - делать/выполнять хорошо, делать успехи 
-Humanities - гуманитарные науки
-highly-qualified - высоко-квалифицированный
-specialist - специалист
-higher - высший
-academy - академия
-foreign - иностранный
-advanced - продвинутый, передовой, углубленный
-science - наука
-to establish - организовывать
-to found - основывать
-to find/found  - находить, обнаруживать
-facilities - возможности, условия, инфраструктура
-gym - спортивный зал
-library - библиотека
-students canteen - студенческая столовая
-residence hall (hostel) -  общежитие
-to provide with -  обеспечивать
-to contribute to -  предоставлять, вносить вклад в
-to apply - применять
-to enhance - усиливать, улучшать
-fundamental - основной, существенный, фундаментальный
-fundamentals - основы
-a curriculum (pl curricula) - учебный план, программа обучения (в образовательном учреждении)
-rote learning/learning by rote - механическое запоминание, зубрежка
-cheating - списывание
-remote learning opportunities - возможности обучаться удаленно 
-to take a course - проходить курс
-blended/classes - смешанный
-self-paced learning - учеба в своем темпе
-to pace themselves on their own - задавать и поддерживать свой темп обучения
-hands-on training/courses - практическое обучение
-career - карьера
-career ladder - карьерная лестница
-to employ - давать работу, нанимать
-an employer - работодатель
-an employee - работник, служащий
-employability - возможность (способность) найти работу; возможность занятости 
-to do shift-work - скользящий график (по четным или по суткам и т.д.) 
-to be on flexi-time - гибкий, свободный график 
-flexible hours - гибкий график работы
-to work nine-to-five - жесткий, фиксированный рабочий день 
-to hire - нанимать
-to fire - увольнять
-to recruit - вербовать, нанимать, давать работу
-post/position - должность
-challenging position - должность, требующая большой отдачи (своеобразный вызов, испытания0
-to earn - зарабатывать 
-wage - оплата (почасовая, недельная)
-salary -  зарплата
-to be dismissed  - быть уволенным 
-to be made redundant - быть уволенным по сокращению штатов 
-to be laid off - подлежащий увольнению
-to resign - уйти в отставку
-to quit - уходить, уволиться с работы
-commitment -  приверженность 
-development -  развитие
-job hunting - процесс поиска работы
-job market - рынок труда
-competitive - с высокой конкуренцией, конкурентный
-competitive job market - рынок труда с высокой конкуренцией
-competitive salary - конкурентоспособная зарплата
-advances in technology - достижения в области технологий
-artificial intelligence - искусственный интеллект
-skilled (unskilled) worker - квалифицированный (неквалифицированный) рабочий 
-to do/work overtime - работать сверхурочно 
-overworking - переработка
-to apply for a job - подавать документы на должность
-application - применение, подача документов 
-an applicant - кандидат, претендент
-choosy - разборчивый, привередливый
-experience - опыт
-diverse experience - разнообразный опыт
-empathy - эмпатия 
-dexterity - ловкость, сноровка 
-imagination - воображение 
-perks - (разг)  дополнительные преимущества или блага, которые даёт какая-л. Работа
-career advancement - продвижение по службе
-health insurance - медицинская страховка
-to volunteer - заниматься волонтерской деятельностью
-rewarding - стоящий, полезный
-recruiting agency - кадровое агентство, агентство по найму
-employment services - служба занятости
+Present - Simple - I + (s) - 2
+Past - Simple - II or ed - 0
+Future - Simple - will + I - 1
+Future in the past - Simple - would + I - 1
+Present - Continious - be(am, is, are) + I + ing - 0
+Past - Continious - be(was, were) + I + ing - 0
+Future - Continious - will + be + I + ing - 0
+Future in the past - Continious - would + be + I + ing - 0
+Present - Perfect - have, has + III - 0
+Past - Perfect - had + III - 0
+Future - Perfect - will + have + III - 0
+Future in the past - Perfect - would + have + III - 0
+Present - Perfect Continious - have, has + been + I + ing - 0
+Past - Perfect Continious - had + been + I + ing - 0
+Future - Perfect Continious - will + have + been + I + ing - 0
+Future in the past - Perfect Continious - would + have + been + I + ing - 0
